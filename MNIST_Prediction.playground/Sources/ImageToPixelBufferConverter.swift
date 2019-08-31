@@ -6,6 +6,8 @@
 //  Copyright © 2019 Sergio Fraile. All rights reserved.
 //
 
+// NOTE: Unused, applied from Extensions.swift instead.
+
 import Foundation
 import UIKit
 

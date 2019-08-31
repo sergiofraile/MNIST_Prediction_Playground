@@ -1,5 +1,5 @@
 //
-//  ImageToPixelBufferConverter.swift
+//  MNIST_Prediction.swift
 //  MNIST_Prediction (playground)
 //
 //  Created by Sergio Fraile on 7/31/19.

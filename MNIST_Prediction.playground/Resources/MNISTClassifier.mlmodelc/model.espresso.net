@@ -170,14 +170,15 @@
       "top" : "drawing_pool2_fwd"
     },
     {
-      "mode" : 0,
+      "bottom" : "drawing_pool2_fwd",
       "weights" : {
 
       },
+      "mode" : 0,
+      "nd_axis" : 0,
       "top" : "drawing_flatten0_reshape0",
       "type" : "flatten",
-      "name" : "drawing_flatten0_reshape0",
-      "bottom" : "drawing_pool2_fwd"
+      "name" : "drawing_flatten0_reshape0"
     },
     {
       "nB" : 576,
